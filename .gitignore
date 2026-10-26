@@ -1,0 +1,4 @@
+node_modules/
+cosmetics_data.json
+.vercel
+.env

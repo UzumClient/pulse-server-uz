@@ -1,0 +1,12 @@
+{
+  "name": "pulse-cosmetics-server",
+  "version": "1.0.0",
+  "description": "Pulse Cosmetics Custom Backend Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["pulse", "cosmetics", "minecraft", "server"],
+  "author": "",
+  "license": "ISC"
+}
